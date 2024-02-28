@@ -1,0 +1,14 @@
+C:\Users\vitor\source\repos\SalaryCalculator\SalaryCalculator\bin\Debug\net6.0\SalaryCalculator.exe
+C:\Users\vitor\source\repos\SalaryCalculator\SalaryCalculator\bin\Debug\net6.0\SalaryCalculator.deps.json
+C:\Users\vitor\source\repos\SalaryCalculator\SalaryCalculator\bin\Debug\net6.0\SalaryCalculator.runtimeconfig.json
+C:\Users\vitor\source\repos\SalaryCalculator\SalaryCalculator\bin\Debug\net6.0\SalaryCalculator.dll
+C:\Users\vitor\source\repos\SalaryCalculator\SalaryCalculator\bin\Debug\net6.0\SalaryCalculator.pdb
+C:\Users\vitor\source\repos\SalaryCalculator\SalaryCalculator\obj\Debug\net6.0\SalaryCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\source\repos\SalaryCalculator\SalaryCalculator\obj\Debug\net6.0\SalaryCalculator.AssemblyInfoInputs.cache
+C:\Users\vitor\source\repos\SalaryCalculator\SalaryCalculator\obj\Debug\net6.0\SalaryCalculator.AssemblyInfo.cs
+C:\Users\vitor\source\repos\SalaryCalculator\SalaryCalculator\obj\Debug\net6.0\SalaryCalculator.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\SalaryCalculator\SalaryCalculator\obj\Debug\net6.0\SalaryCalculator.dll
+C:\Users\vitor\source\repos\SalaryCalculator\SalaryCalculator\obj\Debug\net6.0\refint\SalaryCalculator.dll
+C:\Users\vitor\source\repos\SalaryCalculator\SalaryCalculator\obj\Debug\net6.0\SalaryCalculator.pdb
+C:\Users\vitor\source\repos\SalaryCalculator\SalaryCalculator\obj\Debug\net6.0\SalaryCalculator.genruntimeconfig.cache
+C:\Users\vitor\source\repos\SalaryCalculator\SalaryCalculator\obj\Debug\net6.0\ref\SalaryCalculator.dll
