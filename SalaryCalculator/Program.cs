@@ -44,7 +44,7 @@ namespace SalaryCalculator
             Console.Write("Enter month and year to calculate income (MM/YYYY): ");
             string montAndYear = Console.ReadLine();
             int month = int.Parse(montAndYear.Substring(0, 2));
-            int year = int.Parse(montAndYear.Substring(3, 4)); //ALTERADO PARA FUNCIONAR (ENTENDER JUNTAMENTE COM RESTO DO CÓDIGO)!!!
+            int year = int.Parse(montAndYear.Substring(3, 4)); 
 
             Console.WriteLine("Name: " + worker.Name);
             Console.WriteLine("Departament: " + worker.Departament.Name); 
