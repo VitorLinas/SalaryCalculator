@@ -1,4 +1,4 @@
-﻿using SalaryCalculator.Entities.Enums;
+using SalaryCalculator.Entities.Enums;
 using System.Collections.Generic;
 
 namespace SalaryCalculator.Entities.Enums
@@ -7,18 +7,18 @@ namespace SalaryCalculator.Entities.Enums
     {
         public string Name { get; set; }
         public WorkerLevel Level { get; set; }
-        public double BaseSlarary { get; set; }
+        public double BaseSalary { get; set; }
         public Departament Departament { get; set; }
         public List<HourContract> Contracts { get; set; } = new List<HourContract>();
 
         public Worker()
         {
         }
-        public Worker(string name, WorkerLevel level, double baseSlarary, Departament departament)
+        public Worker(string name, WorkerLevel level, double baseSalary, Departament departament)
         {
             Name = name;
             Level = level;
-            BaseSlarary = baseSlarary;
+            BaseSalary = baseSalary;
             Departament = departament;
         }
 
@@ -34,7 +34,7 @@ namespace SalaryCalculator.Entities.Enums
 
         public double Income(int year, int month)
         {
-            double sum = BaseSlarary;
+            double sum = BaseSalary;
 
             foreach (HourContract contract in Contracts)
             {
@@ -50,3 +50,4 @@ namespace SalaryCalculator.Entities.Enums
 
     }
 }
+
