@@ -2,7 +2,7 @@
 {
     enum WorkerLevel : int
     {
-        Juniot = 0,
+        Junior = 0,
         MidLevel = 1,
         Senior = 2
     }
